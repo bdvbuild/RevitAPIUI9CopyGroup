@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPIUI9CopyGroup", "RevitAPIUI9CopyGroup.csproj", "{4311624E-BFE0-4EBB-9A31-07D1F01A8287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4311624E-BFE0-4EBB-9A31-07D1F01A8287}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{4311624E-BFE0-4EBB-9A31-07D1F01A8287}.Debug|Any CPU.Build.0 = Debug|x64
+		{4311624E-BFE0-4EBB-9A31-07D1F01A8287}.Debug|x64.ActiveCfg = Debug|x64
+		{4311624E-BFE0-4EBB-9A31-07D1F01A8287}.Debug|x64.Build.0 = Debug|x64
+		{4311624E-BFE0-4EBB-9A31-07D1F01A8287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4311624E-BFE0-4EBB-9A31-07D1F01A8287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4311624E-BFE0-4EBB-9A31-07D1F01A8287}.Release|x64.ActiveCfg = Release|x64
+		{4311624E-BFE0-4EBB-9A31-07D1F01A8287}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC5C167-EF7D-4EC5-9991-D7B98E892486}
+	EndGlobalSection
+EndGlobal
